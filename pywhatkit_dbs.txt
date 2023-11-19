@@ -1,0 +1,146 @@
+--------------------
+Date: 15:12:2020
+Time: 18:47
+Phone number: +918827818238
+Message: hi its shlok
+--------------------
+Date: 15:12:2020
+Time: 18:50
+Phone number: +918827818238
+Message: hi its shlok
+--------------------
+Date: 15:12:2020
+Time: 18:52
+Phone number: +918827818238
+Message: hi its shlok
+--------------------
+Date: 15:12:2020
+Time: 18:53
+Phone number: +918827818238
+Message: hi its shlok
+--------------------
+Date: 15:12:2020
+Time: 18:59
+Phone number: +918827818238
+Message: hi its shlok
+--------------------
+Date: 15:12:2020
+Time: 19:8
+Phone number: +918827818238
+Message: hi i am sendin it from python
+--------------------
+Date: 16:12:2020
+Time: 8:55
+Phone number: +918827818238
+Message: aai app school pahuch gaye kya??? ye pappu bhej raha hai!
+--------------------
+Date: 16:12:2020
+Time: 8:57
+Phone number: +918827818238
+Message: aai app school pahuch gaye kya??? ye pappu bhej raha hai!
+--------------------
+Date: 16:12:2020
+Time: 14:0
+Phone number: +918827818238
+Message: by what time you will be home
+--------------------
+Date: 17:12:2020
+Time: 10:0
+Phone number: +918827818238
+Message: by what time you will be home
+--------------------
+Date: 18:12:2020
+Time: 9:50
+Phone number: +918827818238
+Message: by what time you will be home
+--------------------
+Date: 18:12:2020
+Time: 10:13
+Phone number: +918827818238
+Message: i please send soham time table
+--------------------
+Date: 18:12:2020
+Time: 10:17
+Phone number: +918827818238
+Message: please send sohams time table
+--------------------
+Date: 24:12:2020
+Time: 9:50
+Phone number: +918827818238
+Message: by what time you will be home
+--------------------
+Date: 27:12:2020
+Time: 9:8
+Phone number: +919822920106
+Message: this is sent by python
+--------------------
+Date: 27:12:2020
+Time: 9:19
+Phone number: +919822920106
+Message: this is sent by python
+--------------------
+Date: 27:12:2020
+Time: 9:22
+Phone number: +919822920106
+Message: sent by python
+--------------------
+Date: 27:12:2020
+Time: 9:52
+Phone number: +919822920106
+Message: sent by python
+--------------------
+Date: 28:12:2020
+Time: 8:50
+Phone number: +918827818238
+Message: this is sent by python
+--------------------
+Date: 29:12:2020
+Time: 5:9
+Phone number: +918827818238
+Message: this is sent by python
+--------------------
+Date: 29:12:2020
+Time: 5:11
+Phone number: +918827818238
+Message: this is automated by python
+--------------------
+Date: 29:12:2020
+Time: 5:14
+Phone number: +918827818238
+Message: this is automated by python
+--------------------
+Date: 29:12:2020
+Time: 5:15
+Phone number: +918827818238
+Message: this is automated by python
+--------------------
+Date: 29:12:2020
+Time: 17:20
+Phone number: +918827818238
+Message: automated wi-fi send
+--------------------
+Date: 29:12:2020
+Time: 17:22
+Phone number: +919958799407
+Message: sent by 
+--------------------
+Date: 1:1:2021
+Time: 12:18
+Phone number: +918827818238
+Message: 10th bi python
+--------------------
+Date: 1:1:2021
+Time: 12:22
+Phone number: +919131160117
+Message: this is sent through python
+--------------------
+Date: 2:1:2021
+Time: 7:51
+Phone number: +919131160117
+Message: is it sent through python
+--------------------
+Date: 10:1:2021
+Time: 9:25
+Phone number: +919958799407
+Message: this is sent by python
+--------------------
